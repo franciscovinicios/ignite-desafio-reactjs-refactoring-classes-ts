@@ -1,10 +1,7 @@
 <div align="center">
-   <img  src="https://user-images.githubusercontent.com/78514869/155856738-106e3ee8-ee21-472c-b3db-e6a440724564.svg">
+   <img  src="https://user-images.githubusercontent.com/78514869/155857335-276f7ad1-2d11-436e-b0f7-5f04463e34a6.svg">
 </div>
 
-<h3 align="center">
-    Application where your main objective is to refactor a page to list movies according to genre
-</h3>
 
 <h4 align="center"> 
 	 Status: Finished
@@ -38,24 +35,21 @@ The following tools were used in the construction of the project:
 
 -   **React**
 -   **TypeScript**
--   **Axios**
--   **Styled Components**
--   **MirageJs**
--   **LocalStorage API**
--   **React-toastify**
+-   **Fake API - JSON Server**
 
 ## Layout
 
 * **Home**
 <br/>
 
-![dashboard](https://user-images.githubusercontent.com/78514869/155856737-0eb23186-967f-4875-bb41-f60283069062.png)
-
-
-* **Shopping cart**
+![dashboard](https://user-images.githubusercontent.com/78514869/155857343-f1b8238c-8aff-406f-b8e9-643fa6dda827.png)
 <br/>
 
-![carrinho](https://user-images.githubusercontent.com/78514869/155856736-6bdf1534-d169-46af-9e3d-1cdb38946ee4.png)
+
+* **Add product**
+<br/>
+
+![modal](https://user-images.githubusercontent.com/78514869/155857339-eca99313-f602-48a2-ac1e-588fd21f3deb.png)
 
 
 ## Getting Started
@@ -82,7 +76,7 @@ The project can be built with npm or yarn, so choose one of the approach bellow 
 
 ```
 3. yarn install
-4. yarn dev
+4. yarn start
 
 ```
 
@@ -90,7 +84,7 @@ or
 
 ```
 3. npm install
-4. npm dev
+4. npm start
 ```
 
 * Running Fake API com JSON Server
