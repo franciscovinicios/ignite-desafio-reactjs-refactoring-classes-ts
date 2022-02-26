@@ -26,7 +26,6 @@
 This will be an already functional application where its main objective is to perform two migration processes: from Javascript to
  Typescript and from Class Components to Function Components.
 
-Next we will see in more detail what and how it needs to be done 🚀
 </p>
 
 ## Tech Stack
